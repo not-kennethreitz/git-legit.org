@@ -222,3 +222,11 @@ input.openid            { background: url(openid.png) no-repeat 4px center;
 .vg { color: #000000 } /* Name.Variable.Global */
 .vi { color: #000000 } /* Name.Variable.Instance */
 .il { color: #990000 } /* Literal.Number.Integer.Long */
+
+.install {
+  display: none;
+}
+
+.install.default {
+  display: block;
+}
